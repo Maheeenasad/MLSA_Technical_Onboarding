@@ -29,7 +29,7 @@ const siteProps = {
   email: "maheenasad19@gmail.com",
   gitHub: "maheeenasad",
   instagram: "maheeenasad",
-  linkedIn: "Maheen Asad",
+  linkedIn: "maheen-asad-142467287",
   medium: "",
   twitter: "maheeenasad",
   youTube: "",

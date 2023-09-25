@@ -34,7 +34,6 @@ const skillsList = [
   "ReactJS",
   "HTML & CSS",
   "JavaScript",
-  "Focus group testing",
   "Web & Mobile user interfaces",
   "Graphic design",
 ];
